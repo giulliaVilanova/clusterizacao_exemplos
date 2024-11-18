@@ -1,5 +1,7 @@
 # Resultados dos Métodos de Clusterização
 
+![Exemplo de Clusterização](myplot.png)
+
 ## 1. Clusterização por Centróides (K-Means)
 - **Resultado**: Os dados foram agrupados em três clusters bem definidos com centróides marcados em vermelho.
 - **Observação**: É eficiente e rápido, mas exige o número de clusters como entrada.
